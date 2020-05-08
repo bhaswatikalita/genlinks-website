@@ -40,7 +40,7 @@ button:hover {
 .links {
   padding-top: 20px;
 }
-.links:hover {
+.links a:hover {
   font-weight: bold;
   text-decoration: underline;
 }
